@@ -1,13 +1,15 @@
 ---
 layout: page
 title: Intermediate Python
-subtitle: Topic Title One
+subtitle: Python Datatypes
 minutes: 10
 ---
 > ## Learning Objectives {.objectives}
 >
-> * Learning objective 1
-> * Learning objective 2
+> * List Comprehensions
+> * Dictionaries
+> * Tuples
+> * Sets
 
 Paragraphs of text
 --- possibly including [key word 1](reference.html#key-word-1) ---
